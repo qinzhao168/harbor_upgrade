@@ -1,0 +1,12 @@
+db1:
+  type: mysql
+  addr: 10.39.26.254:3306
+  username: harbor
+  password: M3m5WDz3PgE2
+  database: registry
+db5:
+  type: mysql
+  addr: 10.39.48.233:3306
+  username: harbor
+  password: enN12345
+  database: registry
